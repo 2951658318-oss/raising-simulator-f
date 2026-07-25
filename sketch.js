@@ -151,7 +151,7 @@ function preload(){
   loadGameData();
   loadResultImages();
   loadUIScreens();
-  dialogueBox = loadImage("assets/bubble.png");
+  dialogueBox = loadImage("assets/bubble.PNG");
 }
 
 function setup(){
