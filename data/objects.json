@@ -1,0 +1,1260 @@
+[
+  {
+    "id": 1,
+    "image": "assets/items/basketball.PNG",
+    "filename": "basketball.PNG",
+    "name": "篮球",
+    "description": "我认为这个世界对不热爱运动的人并不友好\n\n",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 2,
+      "creator": 1,
+      "thinker": 1,
+      "player": null,
+      "performer": 1
+    }
+  },
+  {
+    "id": 2,
+    "image": "assets/items/skrit.PNG",
+    "filename": "skrit.PNG",
+    "name": "裙子",
+    "description": "一块布料如何成为身份、欲望、规训与自由的边界",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 1,
+      "thinker": 0,
+      "player": 1,
+      "performer": 2
+    }
+  },
+  {
+    "id": 3,
+    "image": "assets/items/polo.PNG",
+    "filename": "polo.PNG",
+    "name": "polo衫",
+    "description": "拉福牢轮",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 1,
+      "thinker": 0,
+      "player": 1,
+      "performer": 2
+    }
+  },
+  {
+    "id": 4,
+    "image": "assets/items/glassesdoll.PNG",
+    "filename": "glassesdoll.PNG",
+    "name": "龅牙玩偶",
+    "description": "申请加入丑东西保护协会",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 1,
+      "creator": 0,
+      "thinker": 0,
+      "player": 1,
+      "performer": 0
+    }
+  },
+  {
+    "id": 5,
+    "image": "assets/items/makeup.PNG",
+    "filename": "makeup.PNG",
+    "name": "卸妆巾",
+    "description": "有时化妆不是为了掩盖而是表现",
+    "scores": {
+      "collector": 0,
+      "dreamer": 1,
+      "observer": 0,
+      "resonator": 1,
+      "creator": 2,
+      "thinker": 1,
+      "player": 1,
+      "performer": 2
+    }
+  },
+  {
+    "id": 6,
+    "image": "assets/items/honey.PNG",
+    "filename": "honey.PNG",
+    "name": "蜂蜜",
+    "description": "几乎不会自然腐坏",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 1,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 7,
+    "image": "assets/items/butterfly.PNG",
+    "filename": "butterfly.PNG",
+    "name": "蝴蝶",
+    "description": "我会不会也无意间掀起过一阵龙卷风",
+    "scores": {
+      "collector": 0,
+      "dreamer": 1,
+      "observer": 1,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 2,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 8,
+    "image": "assets/items/fan.PNG",
+    "filename": "fan.PNG",
+    "name": "风扇",
+    "description": "会自转的东西有很多",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 2,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 1,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 9,
+    "image": "assets/items/eyeball.PNG",
+    "filename": "eyeball.PNG",
+    "name": "眼球",
+    "description": "请不要一直盯着我",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 2,
+      "resonator": 1,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 10,
+    "image": "assets/items/duoduo.PNG",
+    "filename": "duoduo.PNG",
+    "name": "某学习app吉祥物",
+    "description": "其实绿色也不总代表安全",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 2,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 11,
+    "image": "assets/items/leave.PNG",
+    "filename": "leave.PNG",
+    "name": "彩叶芋",
+    "description": "大自然比我更懂配色",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 1,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 12,
+    "image": "assets/items/simon.PNG",
+    "filename": "simon.PNG",
+    "name": "三文鱼刺身",
+    "description": "每个月都有那么几天想吃得不行",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 1,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 13,
+    "image": "assets/items/redchair.PNG",
+    "filename": "redchair.PNG",
+    "name": "红色塑料椅",
+    "description": "路边见",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 1,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 16,
+    "image": "assets/items/kittyshirt.PNG",
+    "filename": "kittyshirt.PNG",
+    "name": "小猫t恤",
+    "description": "春天般的绿色",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 1
+    }
+  },
+  {
+    "id": 17,
+    "image": "assets/items/hat.PNG",
+    "filename": "hat.PNG",
+    "name": "帽子",
+    "description": "你可以从我戴帽子的频率推断出我洗头的频率",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 1
+    }
+  },
+  {
+    "id": 18,
+    "image": "assets/items/green.PNG",
+    "filename": "green.PNG",
+    "name": "绿色宝石",
+    "description": "现实中没人知道谁的状态已经变红了",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 1,
+      "performer": 0
+    }
+  },
+  {
+    "id": 19,
+    "image": "assets/items/books.PNG",
+    "filename": "books.PNG",
+    "name": "书本",
+    "description": "书籍是人类进步的阶梯这句话并不能用来论证优绩主义",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 1,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 1,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 20,
+    "image": "assets/items/artpop.PNG",
+    "filename": "artpop.PNG",
+    "name": "《ARTPOP》实体专辑",
+    "description": "Art in pop culture in me",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 1,
+      "creator": 1,
+      "thinker": 0,
+      "player": 0,
+      "performer": 1
+    }
+  },
+  {
+    "id": 21,
+    "image": "assets/items/pinktape.PNG",
+    "filename": "pinktape.PNG",
+    "name": "粉色磁带",
+    "description": "直到心满载而归",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 1,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 22,
+    "image": "assets/items/buddle.PNG",
+    "filename": "buddle.PNG",
+    "name": "抱着凯蒂猫的佛像",
+    "description": "我佛糍粑",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 23,
+    "image": "assets/items/mouse.PNG",
+    "filename": "mouse.PNG",
+    "name": "豚鼠",
+    "description": "我走进过一家豚鼠主题的咖啡店",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 1,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 24,
+    "image": "assets/items/monster.PNG",
+    "filename": "monster.PNG",
+    "name": "魔爪饮料",
+    "description": "你永远无法满足，一旦得到，就会渴望得到更多",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 1,
+      "performer": 0
+    }
+  },
+  {
+    "id": 25,
+    "image": "assets/items/mastroom.PNG",
+    "filename": "mastroom.PNG",
+    "name": "蘑菇",
+    "description": "一般不建议靠外观辨别毒性",
+    "scores": {
+      "collector": 0,
+      "dreamer": 1,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 26,
+    "image": "assets/items/modal.PNG",
+    "filename": "modal.PNG",
+    "name": "假人模特",
+    "description": "化着复古的妆容",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 1
+    }
+  },
+  {
+    "id": 27,
+    "image": "assets/items/apple.PNG",
+    "filename": "apple.PNG",
+    "name": "青苹果",
+    "description": "我想飞",
+    "scores": {
+      "collector": 0,
+      "dreamer": 1,
+      "observer": 0,
+      "resonator": 1,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 28,
+    "image": "assets/items/chast.PNG",
+    "filename": "chast.PNG",
+    "name": "棋子",
+    "description": "对国际象棋的全部理解都来自于《后翼弃兵》",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 1,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 1,
+      "player": 1,
+      "performer": 0
+    }
+  },
+  {
+    "id": 29,
+    "image": "assets/items/eyeskitty.PNG",
+    "filename": "eyeskitty.PNG",
+    "name": "小猫公仔",
+    "description": "密恐福利",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 1,
+      "performer": 0
+    }
+  },
+  {
+    "id": 30,
+    "image": "assets/items/woman.PNG",
+    "filename": "woman.PNG",
+    "name": "人物摆件",
+    "description": "貌似是“世界上最污秽”的人",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 1,
+      "performer": 0
+    }
+  },
+  {
+    "id": 31,
+    "image": "assets/items/ligther.PNG",
+    "filename": "ligther.PNG",
+    "name": "打火机",
+    "description": "点不亮未来但可以点生日蛋糕上的蜡烛",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 1,
+      "performer": 0
+    }
+  },
+  {
+    "id": 32,
+    "image": "assets/items/skritb.PNG",
+    "filename": "skritb.PNG",
+    "name": "蝾螈裙子",
+    "description": "我的精神动物是蝾螈",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 1
+    }
+  },
+  {
+    "id": 33,
+    "image": "assets/items/noodle.PNG",
+    "filename": "noodle.PNG",
+    "name": "奶油火鸡面",
+    "description": "吃到的时候感觉并没有想象中那么好吃",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 1,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 34,
+    "image": "assets/items/troll.PNG",
+    "filename": "troll.PNG",
+    "name": "troll doll",
+    "description": "看久一点也很可爱",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 1,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 1,
+      "performer": 0
+    }
+  },
+  {
+    "id": 35,
+    "image": "assets/items/headbone.PNG",
+    "filename": "headbone.PNG",
+    "name": "头骨模型",
+    "description": "只要不拿来当绘画参考或者在昏暗的房间里吓人还是挺善良的",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 1,
+      "resonator": 0,
+      "creator": 1,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 36,
+    "image": "assets/items/trophy.PNG",
+    "filename": "trophy.PNG",
+    "name": "奥斯卡奖杯",
+    "description": "真该为我在家庭聚会上的表现颁发一个",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 2
+    }
+  },
+  {
+    "id": 37,
+    "image": "assets/items/creeper.PNG",
+    "filename": "creeper.PNG",
+    "name": "苦力怕",
+    "description": "oh man",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 1,
+      "performer": 0
+    }
+  },
+  {
+    "id": 38,
+    "image": "assets/items/baby.PNG",
+    "filename": "baby.PNG",
+    "name": "婴儿",
+    "description": "通常是指出生到1周岁（12个月）以内的儿童，但这个只是塑胶制品",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 39,
+    "image": "assets/items/phone.PNG",
+    "filename": "phone.PNG",
+    "name": "翻盖手机",
+    "description": "我大概是最后一代童年回忆里还有这东西的人",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 40,
+    "image": "assets/items/cats.PNG",
+    "filename": "cats.PNG",
+    "name": "招财猫",
+    "description": "一种显化",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 1
+    }
+  },
+  {
+    "id": 41,
+    "image": "assets/items/ipod.PNG",
+    "filename": "ipod.PNG",
+    "name": "iPod",
+    "description": "曾经的时代之声沦为现在的复古符号",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 1,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 42,
+    "image": "assets/items/pet.PNG",
+    "filename": "pet.PNG",
+    "name": "宠物机",
+    "description": "反正我从未坚持到养成想要的形态过",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 1,
+      "performer": 0
+    }
+  },
+  {
+    "id": 43,
+    "image": "assets/items/goldfish.PNG",
+    "filename": "goldfish.PNG",
+    "name": "金鱼玩具",
+    "description": "只有七秒记忆其实只是一个都市传说而已",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 1,
+      "performer": 0
+    }
+  },
+  {
+    "id": 44,
+    "image": "assets/items/magic.PNG",
+    "filename": "magic.PNG",
+    "name": "魔方",
+    "description": "长大了依然觉得会玩魔方的人很厉害",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 1,
+      "performer": 2
+    }
+  },
+  {
+    "id": 45,
+    "image": "assets/items/teacup.PNG",
+    "filename": "teacup.PNG",
+    "name": "茶杯",
+    "description": "不喝茶也想要买好多漂亮的杯具",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 46,
+    "image": "assets/items/stone.PNG",
+    "filename": "stone.PNG",
+    "name": "石头",
+    "description": "你爱它它或许会活过来",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 1,
+      "resonator": 1,
+      "creator": 0,
+      "thinker": 1,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 47,
+    "image": "assets/items/watch.PNG",
+    "filename": "watch.PNG",
+    "name": "手表",
+    "description": "根据量子力学，线性时间并不存在",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 1,
+      "player": 1,
+      "performer": 0
+    }
+  },
+  {
+    "id": 48,
+    "image": "assets/items/guitar.PNG",
+    "filename": "guitar.PNG",
+    "name": "吉他",
+    "description": "长大了依然觉得会弹吉他的人很帅",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 2,
+      "thinker": 0,
+      "player": 1,
+      "performer": 2
+    }
+  },
+  {
+    "id": 49,
+    "image": "assets/items/god.PNG",
+    "filename": "god.PNG",
+    "name": "神龛",
+    "description": "宗教可以理解为一种关于世界、人类和终极意义的信仰与实践体系",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 1,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 50,
+    "image": "assets/items/badge.PNG",
+    "filename": "badge.PNG",
+    "name": "徽章",
+    "description": "彰显我想彰显的",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 1,
+      "creator": 1,
+      "thinker": 0,
+      "player": 0,
+      "performer": 1
+    }
+  },
+  {
+    "id": 51,
+    "image": "assets/items/dolphine.PNG",
+    "filename": "dolphine.PNG",
+    "name": "海豚挂件",
+    "description": "曾经在小学社会实践活动去海洋馆时买过类似的",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 52,
+    "image": "assets/items/camera.PNG",
+    "filename": "camera.PNG",
+    "name": "相机",
+    "description": "美好常在",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 1,
+      "resonator": 0,
+      "creator": 1,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 53,
+    "image": "assets/items/labubu.PNG",
+    "filename": "labubu.PNG",
+    "name": "拉布布（？）",
+    "description": "当你凝视流行时，流行也在凝视你",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 1,
+      "player": 1,
+      "performer": 1
+    }
+  },
+  {
+    "id": 54,
+    "image": "assets/items/barbie.PNG",
+    "filename": "barbie.PNG",
+    "name": "芭比",
+    "description": "这位“坏女性主义者”经历了数次的被解构",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 1,
+      "player": 1,
+      "performer": 1
+    }
+  },
+  {
+    "id": 55,
+    "image": "assets/items/racoon.PNG",
+    "filename": "racoon.PNG",
+    "name": "浣熊",
+    "description": "在公交车上吃花生酱并没有妨碍到任何人，所以请善待",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 1,
+      "performer": 0
+    }
+  },
+  {
+    "id": 56,
+    "image": "assets/items/dice.PNG",
+    "filename": "dice.PNG",
+    "name": "骰子",
+    "description": "意义过载的巧合",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 1,
+      "player": 0,
+      "performer": 1
+    }
+  },
+  {
+    "id": 57,
+    "image": "assets/items/cake.PNG",
+    "filename": "cake.PNG",
+    "name": "蛋糕",
+    "description": "被允许肢解的甜蜜",
+    "scores": {
+      "collector": 0,
+      "dreamer": 1,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 58,
+    "image": "assets/items/earing.PNG",
+    "filename": "earing.PNG",
+    "name": "耳饰",
+    "description": "小时候想成为戴这种耳饰的大姐姐",
+    "scores": {
+      "collector": 1,
+      "dreamer": 1,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 1,
+      "thinker": 0,
+      "player": 0,
+      "performer": 1
+    }
+  },
+  {
+    "id": 59,
+    "image": "assets/items/shark.PNG",
+    "filename": "shark.PNG",
+    "name": "鲨鱼玩偶",
+    "description": "英文中有个单词叫cuddly",
+    "scores": {
+      "collector": 1,
+      "dreamer": 1,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 1,
+      "performer": 0
+    }
+  },
+  {
+    "id": 60,
+    "image": "assets/items/coffe.PNG",
+    "filename": "coffe.PNG",
+    "name": "冰咖啡",
+    "description": "以前觉得咖啡是高端饮品，怎么我开始喝了就变成社畜饮品了",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 1,
+      "creator": 0,
+      "thinker": 1,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 61,
+    "image": "assets/items/cookie.PNG",
+    "filename": "cookie.PNG",
+    "name": "曲奇",
+    "description": "仍有喜欢高甜度的人在坚守",
+    "scores": {
+      "collector": 0,
+      "dreamer": 1,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 62,
+    "image": "assets/items/icecream.PNG",
+    "filename": "icecream.PNG",
+    "name": "三色冰淇淋",
+    "description": "长大后才开始喜欢草莓香精的味道",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 63,
+    "image": "assets/items/kiwi.PNG",
+    "filename": "kiwi.PNG",
+    "name": "猕猴桃",
+    "description": "尝一下甜不甜",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 1,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 64,
+    "image": "assets/items/maipian.PNG",
+    "filename": "maipian.PNG",
+    "name": "麦片",
+    "description": "对肠道健康有益",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 1,
+      "performer": 0
+    }
+  },
+  {
+    "id": 65,
+    "image": "assets/items/soda.PNG",
+    "filename": "soda.PNG",
+    "name": "波子汽水",
+    "description": "形式大于内容",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 1,
+      "performer": 0
+    }
+  },
+  {
+    "id": 66,
+    "image": "assets/items/m.PNG",
+    "filename": "m.PNG",
+    "name": "薯条",
+    "description": "好吃",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 1,
+      "creator": 0,
+      "thinker": 0,
+      "player": 1,
+      "performer": 0
+    }
+  },
+  {
+    "id": 67,
+    "image": "assets/items/taggle.PNG",
+    "filename": "taggle.PNG",
+    "name": "tangle",
+    "description": "让我的手保持忙碌，我的大脑就会暂时清醒",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 1,
+      "resonator": 1,
+      "creator": 0,
+      "thinker": 0,
+      "player": 1,
+      "performer": 0
+    }
+  },
+  {
+    "id": 68,
+    "image": "assets/items/alchol.PNG",
+    "filename": "alchol.PNG",
+    "name": "鸡尾酒",
+    "description": "为什么我不能在马尔代夫",
+    "scores": {
+      "collector": 0,
+      "dreamer": 1,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 69,
+    "image": "assets/items/lays.PNG",
+    "filename": "lays.PNG",
+    "name": "黄瓜味薯片",
+    "description": "吃什么口味的薯片并不能代表什么，可是喜欢黄瓜味真的很有品",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 1,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  },
+  {
+    "id": 70,
+    "image": "assets/items/lago.PNG",
+    "filename": "lago.PNG",
+    "name": "乐高人",
+    "description": "等我小了要买下所有喜欢的乐高",
+    "scores": {
+      "collector": 1,
+      "dreamer": 1,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 1,
+      "performer": 0
+    }
+  },
+  {
+    "id": 71,
+    "image": "assets/items/flower.PNG",
+    "filename": "flower.PNG",
+    "name": "胸花",
+    "description": "我们需要一些美丽而无用的东西",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 0,
+      "creator": 1,
+      "thinker": 0,
+      "player": 0,
+      "performer": 1
+    }
+  },
+  {
+    "id": 72,
+    "image": "assets/items/comb.PNG",
+    "filename": "comb.PNG",
+    "name": "梳子",
+    "description": "人每天平均会掉五十到一百根头发",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 1,
+      "resonator": 0,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 1
+    }
+  },
+  {
+    "id": 73,
+    "image": "assets/items/nail.PNG",
+    "filename": "nail.PNG",
+    "name": "指甲油",
+    "description": "掉得斑驳不堪也别有风味",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 1,
+      "resonator": 1,
+      "creator": 1,
+      "thinker": 0,
+      "player": 0,
+      "performer": 1
+    }
+  },
+  {
+    "id": 74,
+    "image": "assets/items/watchy.PNG",
+    "filename": "watchy.PNG",
+    "name": "手表",
+    "description": "根据量子力学，线性时间并不存在",
+    "scores": {
+      "collector": 0,
+      "dreamer": 0,
+      "observer": 1,
+      "resonator": 1,
+      "creator": 0,
+      "thinker": 2,
+      "player": 2,
+      "performer": 0
+    }
+  },
+  {
+    "id": 75,
+    "image": "assets/items/monchichi.PNG",
+    "filename": "monchichi.PNG",
+    "name": "蒙奇奇",
+    "description": "时代对可爱的诠释",
+    "scores": {
+      "collector": 1,
+      "dreamer": 0,
+      "observer": 0,
+      "resonator": 1,
+      "creator": 0,
+      "thinker": 0,
+      "player": 1,
+      "performer": 0
+    }
+  },
+  {
+    "id": 76,
+    "image": "assets/items/perfume.PNG",
+    "filename": "perfume.PNG",
+    "name": "香水",
+    "description": "我认为嗅觉的重要性被低估了",
+    "scores": {
+      "collector": 0,
+      "dreamer": 1,
+      "observer": 1,
+      "resonator": 1,
+      "creator": 0,
+      "thinker": 0,
+      "player": 0,
+      "performer": 0
+    }
+  }
+]
